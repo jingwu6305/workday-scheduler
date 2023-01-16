@@ -43,7 +43,7 @@ The following animation demonstrates the application functionality:
 
 ```md
 *Current date is displayed on the top of the application. 
-*The schedule covers working hours from 8am to 6pm.
+*The schedule covers working hours from 9am to 6pm.
 *Each block can be used to enter important events of the time period. 
 *Each block has a background color to show if it is in the past (grey), current (red) of future *(green).
 *Once the user clicks on the save button, the information they enter will be saved to local *Storage.
